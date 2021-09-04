@@ -1,5 +1,4 @@
 const loginForm = document.querySelector('#login__form');
-const loginBtn = loginForm.querySelector('.login__btn');
 const loginText = loginForm.querySelector('input[type="text"]');
 const userName = document.querySelector('.username');
 const USERNAME_KEY = 'userName';
