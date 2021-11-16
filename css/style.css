@@ -47,7 +47,9 @@ input[type="text"] {
   text-align: center;
 }
 
-.clock h2 {
+.clock em {
+  display: block;
+  font-style: normal;
   font-size: 180px;
   font-weight: 700;
   margin-bottom: 20px;
@@ -150,7 +152,7 @@ ul.todo__menu li button {
     padding: 70px 20px 20px;
   }
 
-  .clock h2 {
+  .clock em {
     font-size: 100px;
   }
 
